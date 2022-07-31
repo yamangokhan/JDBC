@@ -1,0 +1,2 @@
+public class NewQuery02 {
+}
